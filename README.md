@@ -5,6 +5,10 @@ Brad Has A Pain oyununun Lisa the Pointless versiyonu,Brad Has A Pain'den önce 
 "önceki versiyon" olarak adlandırılmıştır.
 https://gamejolt.com/games/THERECANONLYBEONEDISCIPLE/475174
 
+
+# Bu Proje Bırakılmamış mıydı?
+Brad Has A Pain edilemediğinden bırakılmıştı ama şansımıza optimize edilip yamalanabilir bir dosyaya dönüştürülebildi.
+
 # Nasıl yüklenir?
 YAMAYI INDIRME
 
